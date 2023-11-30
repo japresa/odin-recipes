@@ -1,7 +1,10 @@
 # odin-recipes
 project1 odin
+
 @author Justin Apresa
+
 @email apresa@wisc.edu
+
 @project-source theodinproject.com
 
 This is a website with a main index html file which will have links to other pages with recipes. 
