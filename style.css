@@ -1,4 +1,30 @@
-body{
+#mainPage{
     background-color: aquamarine;
+    background-image: url(./images/background-kitchen.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 800px;
 }
 
+body{
+    background-color: pink;
+}
+
+
+
+
+.text{
+    font-family: cursive, fantasy, monospace;
+}
+
+#headTop{
+    text-align: left;
+    font-size: 30px;
+    font-family: cursive, fantasy, monospace;
+}
+
+.text.recipe-header{
+
+    color: blue;
+    font-size: xx-large;
+}
