@@ -1,11 +1,20 @@
 #mainPage{
-    background-color: aquamarine;
+    background-color: rgb(255, 251, 209);
     background-image: url(./images/background-kitchen.jpg);
     background-position: right;
     background-repeat: no-repeat;
     background-size: 800px;
 }
 
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 228, 193);
+    color: rgb(48, 43, 43);
+    text-align: left;
+}
 body{
     background-color: pink;
 }
