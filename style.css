@@ -6,6 +6,12 @@
     background-size: 800px;
 }
 
+#main-page-recipe-list{
+    width: 300px;
+    padding: 10px;
+    border: 10px solid rebeccapurple;
+    padding-left: 20px;
+}
 .footer{
     position: fixed;
     left: 0;
@@ -30,7 +36,9 @@ body{
     text-align: left;
     font-size: 30px;
     font-family: cursive, fantasy, monospace;
+    margin-bottom: 10px;
 }
+
 
 .text.recipe-header{
 
