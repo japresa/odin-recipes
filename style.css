@@ -35,7 +35,7 @@ body {
 
     &.hover {
         &:hover {
-            background: #6393f0;
+            color: #6393f0;
         }
     }
 }
