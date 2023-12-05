@@ -1,4 +1,4 @@
-#mainPage{
+#mainPage {
     background-color: rgb(255, 251, 209);
     background-image: url(./images/background-kitchen.jpg);
     background-position: right;
@@ -6,13 +6,14 @@
     background-size: 800px;
 }
 
-#main-page-recipe-list{
+#main-page-recipe-list {
     width: 300px;
     padding: 10px;
     border: 10px solid rebeccapurple;
     padding-left: 20px;
 }
-.footer{
+
+.footer {
     position: fixed;
     left: 0;
     bottom: 0;
@@ -21,18 +22,25 @@
     color: rgb(48, 43, 43);
     text-align: left;
 }
-body{
+
+body {
     background-color: pink;
 }
 
 
 
 
-.text{
+.text {
     font-family: cursive, fantasy, monospace;
+
+    &.hover {
+        &:hover {
+            background: #6393f0;
+        }
+    }
 }
 
-#headTop{
+#headTop {
     text-align: left;
     font-size: 30px;
     font-family: cursive, fantasy, monospace;
@@ -40,7 +48,7 @@ body{
 }
 
 
-.text.recipe-header{
+.text.recipe-header {
 
     color: blue;
     font-size: xx-large;
