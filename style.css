@@ -36,6 +36,7 @@ body {
     &.hover {
         &:hover {
             color: #6393f0;
+            font-size:x-large !important;
         }
     }
 }
